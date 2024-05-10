@@ -1,4 +1,4 @@
-#### Hi there 👋 I have the pleasure of teaching computer science at local high school.  Below are a few details about the courses we offer.
+#### Hi there 👋 I have the pleasure of teaching computer science at a local high school.  Below are a few details about the courses we offer.
 
 ---
 ## Computer Science Club
